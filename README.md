@@ -1,22 +1,22 @@
 #Remember Names to be Remembered.
 
-1 Why is this a relevant topic
+1. Why is this a relevant topic
   * programmer social stereotypes / who wants to be a stereotype?
       * antisocial
       * introverted
       * an opinion from Clayburn Griffin - Quara.com -  "They're all overweight, pimply neck-bearded nerds living in a basement somewhere with at least four computer monitors.  They really only leave their "battle station" to get the door when pizza arrives and to use the restroom, but some have colostomy bags.  They never speak to others unless absolutely necessary or through an online RPG where they are posing as a well-built warrior mage..."
   * We are all - or soon will be - job hunting.
   * People, in general, like to be remembered.
-1 Excuses, Excuses.
+2. Excuses, Excuses.
   * anecdote about forgetting name
   * I'm just not good with names.
   * I'm good with faces but not names.
-1 It's not just excuses
+3. It's not just excuses
   * from PsyBlog - The most popular explanation in the research is that names are essentially arbitrary and meaningless. For most of us our names give away few clues about our appearance, our personalities or anything about us, except maybe a rough age, ethnicity, social class and whether our parents were celebrities (hello ‘Moon Unit’, ‘Tu Morrow’ and ‘Moxie Crimefighter’—yes, all real names of celebrity offspring).
   If, for example, I was called ‘The Pink Panther’, and I happened to look like a pink panther, you’d almost certainly find it easy to remember my name.
   * if my name was Sorta-tall Whiteguy With Glasses people would probably remember my name easier than Andrew.
   * names are abstract. They are a bunch of letters put together to make a sound. They don't necessarily correlate to someones appearance or personality.
-1 Techniques and tips to help you remember names
+3. Techniques and tips to help you remember names
   * Commit to trying to remember names
     * turns out most people say they're bad at remembering name so they don't try
     * tell yourself "I will try my hardest to remember peoples names"
@@ -47,7 +47,7 @@
     * Twitter
     * Facebook
     * Beware - Don't become dependent - use as a supplement.
-1 Overview - Remembering names is important.
+1. Overview - Remembering names is important.
   * Don't be that guy/gal
   * Genuinely want to remember peoples names
   * Use tactics and techniques to help you remember
