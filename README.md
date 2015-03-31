@@ -23,7 +23,7 @@
     * make it genuinely important
   * Concentrate on remembering a name
     * when you meet someone new - concentrate - give them your full attention
-    * anecdote
+    * anecdote - avoid social narcissism
   * Repetition
     * repeat their name when you meet them
     * if you didn't catch their name - ask them to repeat it.
